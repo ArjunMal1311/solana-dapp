@@ -1,0 +1,17 @@
+Streaming transaction logs mentioning Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w. Confirmed commitment
+Transaction executed in slot 4869:
+  Signature: y1AjZYt6t97fQZNt9YT8PMBFrWnEgi24p8YmqeqwWQvUdg9BHBaNKpk4CeSHeR2ZUdZ3DBBfnVuoSVxcze1aB7x
+  Status: Ok
+  Log Messages:
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w invoke [1]
+    Program log: Instruction: InitializePoll
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w consumed 6006 of 200000 compute units
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w success
+Transaction executed in slot 4870:
+  Signature: 5Qu2Jp922S6t7qHSautcnFGGiy7CwEmP98kzXikoX5WpkTXkHQQLLjjqkC6uweTFdjf9azprc9mfdPcaxD4XMcyJ
+  Status: Ok
+  Log Messages:
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w invoke [1]
+    Program log: Instruction: Vote
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w consumed 9062 of 200000 compute units
+    Program Dqaic33RBPbacPSUR6NvtNffZzt8xdvvmbe3J2LbTk4w success
